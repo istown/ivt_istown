@@ -1,4 +1,0 @@
-<?php?>
-
-Hellow World!
-<?php?>
